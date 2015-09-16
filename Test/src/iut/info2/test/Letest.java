@@ -16,6 +16,7 @@ public class Letest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("voila");
+		System.out.println("voila");
 
 	}
 
